@@ -1,6 +1,6 @@
 # FB Remove Sponsored
 
-Chrome extension for removing Facebook 'Sponsored' and 'Popular Across Facebook' posts, cloned from [FBWLS](https://github.com/pyaf/FBWLS).
+Chrome extension for removing Facebook 'Sponsored' and 'Popular Across Facebook' posts, cloned from [FBWLS](https://github.com/pyaf/FBWLS) with updates to the code to address changes in Facebook's page building.
 
 ## Load the extension locally on your computer
 
